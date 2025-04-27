@@ -25,7 +25,7 @@ El sistema está desarrollado en **Java** (usando **Swing** para la interfaz gr�
 ## Instalación
 
 1. Clonar el repositorio:
-git clone https://github.com/tuusuario/sistema-turnos-peluqueria.git
+git clone https://github.com/francomoretto/sistema-turnos-peluqueria.git
 2. Importar el proyecto en tu IDE de preferencia (IntelliJ IDEA, Eclipse, NetBeans, etc.).
 3. Configurar la conexión a la base de datos MySQL (archivo `config.properties` o dentro del código según avance el proyecto).
 4. Ejecutar el proyecto.
