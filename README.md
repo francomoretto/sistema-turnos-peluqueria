@@ -28,7 +28,7 @@ La versión futura incluirá una interfaz gráfica con Swing y persistencia en M
    git clone https://github.com/francomoretto/sistema-turnos-peluqueria.git
    ```
 2. Abrir el proyecto en IntelliJ IDEA (Community Edition).
-3. Ejecutar la clase principal `SistemaTurnos.java` desde la carpeta `/src`.
+3. Ejecutar la clase principal `SistemaTurnos.java` desde la carpeta `/SistemaTurnosJava/src`.
 
 ## Estructura del Proyecto
 
