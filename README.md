@@ -32,8 +32,8 @@ La versión futura incluirá una interfaz gráfica con Swing y persistencia en M
 
 ## Estructura del Proyecto
 
-- `SistemaTurnoJava/src` → Código fuente en Java.
-- `/sql` → (Próximo TP) Scripts para crear la base de datos MySQL.
+- `/SistemaTurnosJava/src` → Código fuente en Java.
+- `/sistema_turnos.sql` → (Próximo TP) Scripts para crear la base de datos MySQL.
 - `/docs` → Documentación técnica, diagramas y manuales.
 
 ## Estado del proyecto
