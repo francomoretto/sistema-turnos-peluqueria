@@ -32,7 +32,7 @@ La versión futura incluirá una interfaz gráfica con Swing y persistencia en M
 
 ## Estructura del Proyecto
 
-- `/src` → Código fuente en Java.
+- `SistemaTurnoJava/src` → Código fuente en Java.
 - `/sql` → (Próximo TP) Scripts para crear la base de datos MySQL.
 - `/docs` → Documentación técnica, diagramas y manuales.
 
