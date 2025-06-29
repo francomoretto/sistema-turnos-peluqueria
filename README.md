@@ -11,7 +11,7 @@ La versión futura incluirá una interfaz gráfica con Swing y persistencia en M
 - Registro de clientes con datos personales.
 - Asignación de turnos con selección de cliente, servicio, estado, fecha y hora.
 - Consulta de todos los turnos registrados.
-- Gestión interna de servicios y estados predefinidos (simulados).
+- Gestión interna de servicios y estados predefinidos.
 - Menú interactivo desde consola.
 
 ## Tecnologías utilizadas
