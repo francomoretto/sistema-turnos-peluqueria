@@ -6,7 +6,7 @@ Este proyecto consiste en el desarrollo de una aplicación de escritorio para la
 Actualmente, el sistema funciona como un prototipo ejecutable desde consola, que permite gestionar clientes, turnos, servicios y estados.  
 La versión futura incluirá una interfaz gráfica con Swing y persistencia en MySQL.
 
-## Funcionalidades implementadas (TP3)
+## Funcionalidades implementadas 
 
 - Registro de clientes con datos personales.
 - Asignación de turnos con selección de cliente, servicio, estado, fecha y hora.
@@ -38,6 +38,5 @@ La versión futura incluirá una interfaz gráfica con Swing y persistencia en M
 
 ## Estado del proyecto
 
-- ✅ TP3: funcionalidades básicas implementadas en consola.
-- 🔄 TP4: integración con base de datos MySQL, aplicación de patrón MVC y manejo completo de excepciones SQL.
-- 🔒 Pendiente: autenticación de usuarios y validación avanzada.
+- TP4: integración con base de datos MySQL, aplicación de patrón MVC y manejo completo de excepciones SQL.
+- Pendiente: autenticación de usuarios y validación avanzada.
